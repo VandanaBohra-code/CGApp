@@ -1,0 +1,21 @@
+{
+  "name": "cgcloud",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fluentui/react-northstar": "^0.66.5",
+    "@microsoft/teams-js": "^2.24.0",
+    "@types/react-router-dom": "^5.3.3",
+    "adal-angular": "^1.0.18",
+    "latest": "^0.2.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
